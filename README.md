@@ -13,7 +13,7 @@ An interactive command-line Python game where the computer generates a secret ra
 1. Make sure **Python 3** is installed on your computer.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/python-number-guessing-game.git](https://github.com/devsalilpandey/python-number-guessing-game.git)
+   git clone [https://github.com/devsalilpandey/python-number-guessing-game.git](https://github.com/devsalilpandey/python-number-guessing-game.git)
    ```
 3. Navigate to the project folder:
    ```bash
